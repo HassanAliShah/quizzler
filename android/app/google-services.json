@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "92302450422",
+    "project_id": "quizzler-badfb",
+    "storage_bucket": "quizzler-badfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92302450422:android:01e096b064c47d44eb96d7",
+        "android_client_info": {
+          "package_name": "hassanalishah.quizzler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92302450422-r1ge1vk8mluehib2k7tm48tqobomu032.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hassanalishah.quizzler",
+            "certificate_hash": "067e14268cdbfd636d9a73566b21d02e487d509c"
+          }
+        },
+        {
+          "client_id": "92302450422-dqf6cve31clqtg63u0dvp0n5f62e2jq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBjBGsfOokYCJOR9VZ7mHKzsK9vwQobO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92302450422-dqf6cve31clqtg63u0dvp0n5f62e2jq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
